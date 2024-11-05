@@ -1,8 +1,9 @@
+import Sarang from "./sarang"
 
 function App() {
  
   return (
-   <h1>sarang</h1>
+   <Sarang />
   )
 }
 
